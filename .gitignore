@@ -1,0 +1,8 @@
+.classpath
+.project
+bin/
+*.class
+*.jar
+.DS_Store  # For macOS
+*.iml      # For IntelliJ IDEA
+.idea/     # For IntelliJ IDEA
